@@ -6,12 +6,13 @@ ONNX is a machine learning format for neural networks. It is a portable, open-so
 inference speed without sacrificing accuracy. 
 
 I found a lot of tutorials and articles about ONNX benchmarks but none of them presented a convenient way to use it for 
-real-world NLP tasks. I also answered a lot of questions about ONNX and the best way to use it for NLP on Hugging Face
+real-world NLP tasks. I also answered a lot of questions about ONNX and the best way to use it for NLP on Hugging Face's
 discord server.
 
 This is why I decided to create this project to help you to achieve the best possible results with ONNX.
 
-This project is linked to the following Medium blog post: [How to use Hugging Face 🤗 Transformers with ONNX in real world]()
+This project is linked to the following Medium blog post: 
+[How to use Hugging Face 🤗 Transformers with ONNX in real world]() (🚧 incoming soon)
 
 # How to use it
 
