@@ -19,20 +19,20 @@ This project is linked to the following Medium blog post:
 This repository contains a notebook to show how to export Hugging Face's NLP Transformers models to ONNX and how to use
 the exported model with the appropriate Transformers pipeline.
 
-This is the fastest way I found to use ONNX models with awesome Transformers pipelines in production and without 
+This is the fastest way I found to use ONNX models with the awesome Transformers pipelines in production and without 
 copying and pasting hundreds of lines of code.
 
 The workflow is as follows:
 
 - Export the model to ONNX.
 - Create a new pipeline that inherits from the Transformers pipeline.
-- Overcharge the pipeline's `forward` method to use the exported model.
+- Overcharge the pipeline's task class to use the exported model.
 - Run the pipeline with ONNX.
 
 All steps are explained in the notebook. Enjoy! 🤗
 
 # Support
 
-If you have any questions or face any issues, please open an issue on [GitHub]().
+If you have any questions or face any issues, please open an issue on [GitHub](https://github.com/ChainYo/transformers-pipeline-onnx/issues).
 
 I'm planning to add more examples and support for other NLP tasks. Let me know if you have any ideas!
