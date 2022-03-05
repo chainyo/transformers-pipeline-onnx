@@ -35,4 +35,4 @@ All steps are explained in the notebook. Enjoy! 🤗
 
 If you have any questions or face any issues, please open an issue on [GitHub](https://github.com/ChainYo/transformers-pipeline-onnx/issues).
 
-I'm planning to add more examples and support for others NLP tasks. Let me know if you have any ideas!
+I'm planning to add more examples and support for other NLP tasks. Let me know if you have any ideas!
