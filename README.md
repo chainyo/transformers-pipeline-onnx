@@ -6,7 +6,7 @@ ONNX is a machine learning format for neural networks. It is a portable, open-so
 inference speed without sacrificing accuracy. 
 
 I found a lot of tutorials and articles about ONNX benchmarks but none of them presented a convenient way to use it for 
-real-world NLP tasks. I also answered a lot of questions about ONNX and the best way to use it for NLP on Hugging Face's
+real-world NLP tasks. I also answered a lot of questions about ONNX and the best way to use it for NLP on Hugging Face's 
 discord server.
 
 This is why I decided to create this project to help you to achieve the best possible results with ONNX.
@@ -33,6 +33,6 @@ All steps are explained in the notebook. Enjoy! 🤗
 
 # Support
 
-If you have any questions or face any issues, please open an issue on [GitHub]().
+If you have any questions or face any issues, please open an issue on [GitHub](https://github.com/ChainYo/transformers-pipeline-onnx/issues).
 
 I'm planning to add more examples and support for other NLP tasks. Let me know if you have any ideas!
