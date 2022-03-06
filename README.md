@@ -13,7 +13,7 @@ This is why I decided to write this blog post: I want to help you get the best p
 Transformers pipelines.
 
 This project is linked to the following Medium blog post: 
-[How to use Hugging Face 🤗 Transformers with ONNX in real world]() (🚧 incoming soon)
+[NLP Transformers 🤗 pipelines with ONNX: How to build real-world NLP applications with ONNX, not just for benchmarking tensors.]() (🚧 incoming soon)
 
 # How to use it
 
