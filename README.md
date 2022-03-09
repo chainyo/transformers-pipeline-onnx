@@ -13,7 +13,7 @@ This is why I decided to write this blog post: I want to help you get the best p
 Transformers pipelines.
 
 This project is linked to the following Medium blog post: 
-[NLP Transformers 🤗 pipelines with ONNX: How to build real-world NLP applications with ONNX, not just for benchmarking tensors.]() (🚧 incoming soon)
+[NLP Transformers 🤗 pipelines with ONNX: How to build real-world NLP applications with ONNX, not just for benchmarking tensors.](https://towardsdatascience.com/nlp-transformers-pipelines-with-onnx-9b890d015723)
 
 # How to use it
 
